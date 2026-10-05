@@ -1,3 +1,5 @@
+//Họ và Tên: Trần Thùy Linh
+//MSSV: 202418935
 using System;
 
 namespace LabW04
@@ -22,7 +24,6 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.WriteLine("Phụ cấp: 2.000.000");
         Console.WriteLine("Thưởng cố định: 1.000.000");
         Console.WriteLine("Thu nhập mong đợi: 18.000.000");
-
         Console.WriteLine("\nE002 - Trần Thu Bình - Phòng Hỗ trợ");
         Console.WriteLine("Đơn giá giờ: 100.000");
         Console.WriteLine("Số giờ: 150");
